@@ -1,5 +1,7 @@
 # DevextremeAngularTemplate
 
+https://js.devexpress.com/Documentation/21_1/Guide/Angular_Components/Application_Template/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
 
 ## Development server
